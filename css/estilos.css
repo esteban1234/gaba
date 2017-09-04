@@ -330,7 +330,199 @@ a.go-top {
 
 
 /*--------------------------quienes somos--------------*/
-
+.header2{
+    width: 100%;
+    clear: both;
+    height: 550px;
+    background: url('../img/bannern.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.letras{
+  font-family: 'Encode Sans Semi Condensed', sans-serif;
+  margin-top: 4%;
+  font-size: 16px;
+}
+.seccion3{
+  padding: 8% 0% 8% 0%;
+  background-color: #F9F9F9;
+}
+.mt{
+  margin-top: 3%;
+}
+.mt2{
+  margin-top: 7%;
+}
+.cicono:hover .icono{
+  color: #A11548;
+}
+.botonn2{
+  margin-top: 4%;
+   text-align: center;
+   margin-bottom: 0%;
+}
 /*--------------servicios---------------------------------*/
-
+.header3{
+    width: 100%;
+    clear: both;
+    height: 550px;
+    background: url('../img/banquetes.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.imgservicios{
+  /*border: 2px red solid;*/
+  width: 100%;
+  height: 280px;
+  background: url('../img/boda.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.text-imgservicios{
+  font-family: 'Encode Sans Semi Condensed', sans-serif;
+  margin-top: 50%;
+  font-size: 30px;
+  background-color: rgba(255,255,255,.5);
+  padding: 15px 0px 15px 15px;
+  color: black;
+  font-weight: bold;
+}
+.imgservicios2{
+  /*border: 2px red solid;*/
+  width: 100%;
+  height: 280px;
+  background: url('../img/xv.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.imgservicios3{
+  /*border: 2px red solid;*/
+  width: 100%;
+  height: 280px;
+  background: url('../img/graduar.png');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.imgservicios4{
+  /*border: 2px red solid;*/
+  width: 100%;
+  height: 280px;
+  background: url('../img/empresarial.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.imgservicios5{
+  /*border: 2px red solid;*/
+  width: 100%;
+  height: 280px;
+  background: url('../img/festejos.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.imgservicios6{
+  /*border: 2px red solid;*/
+  width: 100%;
+  height: 280px;
+  background: url('../img/domicilio.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
 /*-------------contacto---------------------*/
+.header4{
+    width: 100%;
+    clear: both;
+    height: 500px;
+    background: url('../img/contacto.jpg');
+    /*background-size: cover;*/
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.mapa{
+  width: 100%;
+}
+.mapa iframe{
+  width: 100%;
+}
+.section-content{
+  text-align: center; 
+
+}
+#contact{
+    
+    font-family: 'Teko', sans-serif;
+  padding-top: 60px;
+  width: 100%;
+  height: 550px;
+  background: #EEEEEE; 
+  /*background: -webkit-linear-gradient(to left, #3a6186 , #89253e);
+  background: linear-gradient(to left, #3a6186 , #89253e);*/
+    color : #000;    
+}
+.contact-section{
+  padding-top: 40px;
+}
+.contact-section .col-md-6{
+  width: 50%;
+}
+
+.form-line{
+  border-right: 1px solid #B29999;
+}
+
+.form-group{
+  margin-top: 10px;
+}
+label{
+  font-size: 1.3em;
+  line-height: 1em;
+  font-weight: normal;
+}
+.form-control{
+  font-size: 1.3em;
+  color: #080808;
+}
+textarea.form-control {
+    height: 135px;
+   /* margin-top: px;*/
+}
+
+.submit{
+  font-size: 1.1em;
+  float: right;
+  width: 150px;
+  background-color: transparent;
+  color: #000;
+
+}
+.mtc{
+  margin-top: 7%;
+}
+.mtc2{
+  margin-top: 10%;
+}

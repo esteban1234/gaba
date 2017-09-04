@@ -13,6 +13,7 @@
   	<link rel="stylesheet" href="../css/bootstrap.css">
   	<link rel="stylesheet" href="../css/iconos.min.css">
 	<link rel="stylesheet" href="../css/estilos.css">
+	<link rel="stylesheet" href="../css/animate.css">
 	<link rel="stylesheet" href="../css/responsivo.css">
 	<link href="https://fonts.googleapis.com/css?family=Encode+Sans|Lato|Montserrat|Open+Sans|Oswald|Roboto|Roboto+Condensed" rel="stylesheet">
 </head>

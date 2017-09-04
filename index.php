@@ -88,8 +88,8 @@
 </div>
 
 <div class="botonc2" >
-        <a class="btn btn-danger btn-outline btn-lg " href="vistas/servicios.php">SERVICIOS</a>
-      </div>
+    <a class="btn btn-danger btn-outline btn-lg " href="vistas/servicios.php">SERVICIOS</a>
+</div>
 
 <a class="go-top" href="#">Subir</a>
 <?php include 'vistas/pie.php' ?>
