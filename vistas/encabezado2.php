@@ -16,5 +16,5 @@
 	<link rel="stylesheet" href="../css/animate.css">
 	<link rel="stylesheet" href="../css/responsivo.css">
 	<script src="../js/general.js"></script>
-	<!-- <link href="https://fonts.googleapis.com/css?family=Encode+Sans|Lato|Montserrat|Open+Sans|Oswald|Roboto|Roboto+Condensed" rel="stylesheet"> -->
+	<link href="https://fonts.googleapis.com/css?family=Encode+Sans|Lato|Montserrat|Open+Sans|Oswald|Roboto|Roboto+Condensed" rel="stylesheet">
 </head>
