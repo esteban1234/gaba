@@ -23,12 +23,11 @@ $mail->FromName = $nombre;
 
 //To address and name
 $mail->addAddress("info@grupogastronomicogaba.com");
-// $mail->addAddress("ballina.santiago@gmail.com");
 
 
 $mail->isHTML(true);
 
-$mail->Subject = "Cotización ADESPU";
+$mail->Subject = "Cotización GABA";
 $mail->Body = "
               <b>Telefono: </b>.$telefono.<br/>
               <b>Comentario: </b>.$comentario.<br/>";
