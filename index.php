@@ -72,21 +72,18 @@
             <!-- <p>HOLA</p> -->
             <i class="shine_effect"></i>
     </div>
-        <div class="col-md-4 col-sm-4 col-xs-12 shine_me">
+        <!-- <div class="col-md-4 col-sm-4 col-xs-12 shine_me">
             <img src="http://lorempixel.com/output/food-q-c-320-240-1.jpg" class="img-responsive"/>
-            <!-- <p>HOLA</p> -->
             <i class="shine_effect"></i>
     </div>
         <div class="col-md-4 col-sm-4 col-xs-12 shine_me">
             <img src="http://lorempixel.com/output/food-q-c-320-240-2.jpg" class="img-responsive"/>
-            <!-- <p>HOLA</p> -->
             <i class="shine_effect"></i>
     </div>
         <div class="col-md-4 col-sm-4 col-xs-12 shine_me">
             <img src="http://lorempixel.com/output/food-q-c-320-240-4.jpg" class="img-responsive"/>
-            <!-- <p>HOLA</p> -->
             <i class="shine_effect"></i>
-    </div>
+    </div> -->
   </div>
 </div>
 
