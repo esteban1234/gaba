@@ -1,0 +1,736 @@
+@media screen and (max-width: 480px){
+
+	/*************DISEÑO INDEX***************************/
+	header, .header2, .header3, .header4{
+		height: 100%;
+		/*padding-bottom: 20px;*/
+	}
+
+	.conten{
+		/*border: 2px solid green;*/
+		height: 100%;
+		padding-bottom: 20px;
+	}
+
+	/*nav{
+		display: none;
+	}*/
+
+	 nav{
+	    width: 80%;
+	    position: fixed;
+	    height: 100%;
+	    margin: 0px;
+	    left: -100%;
+	    top: 0px;
+	    background-color: rgba(0, 0, 0,0.9);
+	    z-index: 2;
+	  }
+
+	 nav ul{
+	    width: 100%;
+	    padding: 0px;
+	  }
+
+	  nav ul a{
+	    display: block;
+	    text-align: center;
+	    padding: 15px 0px !important;
+	    color: #fff !important;
+	    border-bottom: .5px solid rgba(240, 8, 177, 0.5) !important;
+	  }
+
+	.menu-op{
+    position: absolute;
+    right: 8%;
+    top: 8%;
+    cursor: pointer;
+    z-index: 3;
+    display: block;
+  	}
+
+	.contennavmenu .logo{
+		margin: auto;
+		float: none !important;
+		width: 60%;
+	}
+
+	.seccion1{
+		margin-top: 20px;
+	}
+
+	.texto{
+		height: 100px;
+		font-size: 25px;
+		margin-bottom: 40px;
+	}
+
+	.botonc a, .botonc2 a{
+		font-size: 16px !important;
+	}
+
+	.circulo img{
+		border-radius: 10px;
+		height: 250px;
+		margin: auto;
+	}
+
+	.tit-index{
+		text-align: center;
+		margin-top: 10px !important;
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.textci{
+		color: #000;
+		font-size: 16px;
+	}
+
+	.banner2{
+		height: 100%;
+	}
+
+	.fondo{
+		height: 100%;
+		padding: 10px 15px 20px 15px;
+	}
+	
+	.fondo p{
+		font-size: 20px;
+		text-align: justify;
+		margin-bottom: 40px;
+	}
+
+	.fondo p br{
+		display: none;
+	}
+	
+	.h1-index{
+		font-size: 30px;
+		font-weight: bold;
+	}
+
+	.cont-image div img{
+		width: 85%;
+		margin: auto;
+	}
+	/*************END DISEÑO INDEX**********************/
+		
+	/****************DISEÑO NOSOTROS**********************/
+	.texto br{
+		display: none;
+	}
+
+	.seccion1{
+		padding: 0px;
+	}
+
+	.subtit-nos{
+		margin-top: 15px !important;
+		font-size: 25px;
+	}
+
+	.seccion3{
+		padding: 0px;
+	}
+
+	.h1-nos{
+		font-size: 25px;
+	}
+
+	.cicono{
+		display: none;
+	}
+
+	.alinear-texto{
+		border: 2px soild red;
+		text-align: justify;
+	}
+	
+	.h2-omv{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.text-omv{
+		text-align: justify;
+	}
+
+	.botonn2{
+		margin-bottom: 20px;
+	}
+	/****************END DISEÑO NOSOTROS*****************/
+
+	/****************DISEÑO SERVICIOS**********************/
+	.margen-arriba{
+		margin-top: 20px;
+	}
+
+	.imgservicios, .imgservicios2, .imgservicios3, .imgservicios4, .imgservicios5, .imgservicios{
+		border-radius: 10px;
+	}
+
+	.text-imgservicios{
+		text-align: center;
+		width: 100%;
+		padding: 0px 0px 10px 0px;
+		font-size: 23px;
+		margin-top: 235px;
+	}
+	/****************END DISEÑO SERVICIOS*****************/
+
+	/****************DISEÑO CONTACTO**********************/
+	#contact{
+		height: 100%;
+		padding: 5px 5px;
+	}
+
+	.section-header{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	h4{
+		font-size: 14px;
+	}
+
+	.form-line{
+		border: 0px;
+	}
+
+	form div{
+		width: 100% !important;
+	}
+
+	label{
+		width: 100%;
+		text-align: center;
+	}
+
+	.btn-enviar{
+		text-align: center;
+		margin-bottom: 10px; 
+	}
+
+	.new-btn{
+		margin: auto !important;
+		float: none !important;
+	}
+
+	.centrar-text{
+		text-align: center;
+	}
+	/****************END DISEÑO CONTACTO*****************/
+
+
+	/****************DISEÑO FOOTER**********************/
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		width: 95%;
+		margin-bottom: 15px;
+		font-size: 18px;
+	}
+	/****************END DISEÑO FOOTER*****************/
+
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+
+	/*************DISEÑO INDEX***************************/
+	header, .header2, .header3, .header4{
+		height: 100%;
+		/*padding-bottom: 20px;*/
+	}
+
+	.conten{
+		/*border: 2px solid green;*/
+		height: 100%;
+		padding-bottom: 20px;
+	}
+
+	nav{
+	    width: 80%;
+	    position: fixed;
+	    height: 100%;
+	    margin: 0px;
+	    left: -100%;
+	    top: 0px;
+	    background-color: rgba(0, 0, 0,0.9);
+	    z-index: 2;
+	  }
+
+	 nav ul{
+	    width: 100%;
+	    padding: 0px;
+	  }
+
+	  nav ul a{
+	    display: block;
+	    text-align: center;
+	    padding: 15px 0px !important;
+	    color: #fff !important;
+	    border-bottom: .5px solid rgba(240, 8, 177, 0.5) !important;
+	  }
+
+	.menu-op{
+    position: absolute;
+    right: 10%;
+    top: 8%;
+    cursor: pointer;
+    z-index: 3;
+    display: block;
+  	}
+
+	.contennavmenu .logo{
+		margin: auto;
+		float: none !important;
+		width: 45%;
+	}
+
+	.seccion1{
+		margin-top: 20px;
+	}
+
+	.texto{
+		height: 100px;
+		font-size: 25px;
+		margin-bottom: 40px;
+	}
+
+	.botonc a, .botonc2 a{
+		font-size: 16px !important;
+	}
+
+	.circulo img{
+		border-radius: 10px;
+		height: 250px;
+		margin: auto;
+	}
+
+	.tit-index{
+		text-align: center;
+		margin-top: 10px !important;
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.textci{
+		color: #000;
+		font-size: 16px;
+	}
+
+	.banner2{
+		height: 100%;
+	}
+
+	.fondo{
+		height: 100%;
+		padding: 10px 15px 20px 15px;
+	}
+	
+	.fondo p{
+		font-size: 20px;
+		text-align: justify;
+		margin-bottom: 40px;
+	}
+
+	.fondo p br{
+		display: none;
+	}
+	
+	.h1-index{
+		font-size: 30px;
+		font-weight: bold;
+	}
+
+	.cont-image div img{
+		width: 75%;
+		margin: auto;
+	}
+	/*************END DISEÑO INDEX**********************/
+		
+	/****************DISEÑO NOSOTROS**********************/
+	.texto br{
+		display: none;
+	}
+
+	.seccion1{
+		padding: 0px;
+	}
+
+	.subtit-nos{
+		margin-top: 15px !important;
+		font-size: 25px;
+	}
+
+	.seccion3{
+		padding: 0px;
+	}
+
+	.h1-nos{
+		font-size: 25px;
+	}
+
+	.cicono{
+		display: none;
+	}
+
+	.alinear-texto{
+		border: 2px soild red;
+		text-align: justify;
+	}
+	
+	.h2-omv{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.text-omv{
+		text-align: justify;
+	}
+
+	.botonn2{
+		margin-bottom: 20px;
+	}
+	/****************END DISEÑO NOSOTROS*****************/
+
+	/****************DISEÑO SERVICIOS**********************/
+	.margen-arriba{
+		margin-top: 20px;
+	}
+
+	.imgservicios, .imgservicios2, .imgservicios3, .imgservicios4, .imgservicios5, .imgservicios{
+		border-radius: 10px;
+	}
+
+	.text-imgservicios{
+		text-align: center;
+		width: 100%;
+		padding: 0px 0px 10px 0px;
+		font-size: 23px;
+		margin-top: 235px;
+	}
+	/****************END DISEÑO SERVICIOS*****************/
+
+	/****************DISEÑO CONTACTO**********************/
+	#contact{
+		height: 100%;
+		padding: 5px 5px;
+	}
+
+	.section-header{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	h4{
+		font-size: 14px;
+	}
+
+	.form-line{
+		border: 0px;
+	}
+
+	form div{
+		width: 100% !important;
+	}
+
+	label{
+		width: 100%;
+	}
+
+	.btn-enviar{
+		text-align: center;
+		margin-bottom: 10px; 
+	}
+
+	.new-btn{
+		margin: auto !important;
+		float: none !important;
+	}
+
+	.centrar-text{
+		text-align: center;
+	}
+	/****************END DISEÑO CONTACTO*****************/
+
+
+	/****************DISEÑO FOOTER**********************/
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		width: 95%;
+		margin-bottom: 15px;
+		font-size: 18px;
+	}
+	/****************END DISEÑO FOOTER*****************/
+
+
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+		/*************DISEÑO INDEX***************************/
+	header, .header2, .header3, .header4{
+		height: 100%;
+		/*padding-bottom: 20px;*/
+	}
+
+	.conten{
+		/*border: 2px solid green;*/
+		height: 100%;
+		padding-bottom: 20px;
+	}
+
+	nav{
+	    width: 80%;
+	    position: fixed;
+	    height: 100%;
+	    margin: 0px;
+	    left: -100%;
+	    top: 0px;
+	    background-color: rgba(0, 0, 0,0.9);
+	    z-index: 2;
+	  }
+
+	 nav ul{
+	    width: 100%;
+	    padding: 0px;
+	  }
+
+	  nav ul a{
+	    display: block;
+	    text-align: center;
+	    padding: 15px 0px !important;
+	    color: #fff !important;
+	    border-bottom: .5px solid rgba(240, 8, 177, 0.5) !important;
+	  }
+
+		.menu-op{
+	    position: absolute;
+	    right: 10%;
+	    top: 8%;
+	    cursor: pointer;
+	    z-index: 3;
+	    display: block;
+	  	}
+
+	.contennavmenu .logo{
+		margin: auto;
+		float: none !important;
+		width: 45%;
+	}
+
+	.seccion1{
+		margin-top: 20px;
+	}
+
+	.texto{
+		height: 100px;
+		font-size: 25px;
+		margin-bottom: 40px;
+	}
+
+	.botonc a, .botonc2 a{
+		font-size: 16px !important;
+	}
+
+	.circulo img{
+		border-radius: 10px;
+		height: 250px;
+		margin: auto;
+	}
+
+	.tit-index{
+		text-align: center;
+		margin-top: 10px !important;
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.textci{
+		color: #000;
+		font-size: 16px;
+	}
+
+	.banner2{
+		height: 100%;
+	}
+
+	.fondo{
+		height: 100%;
+		padding: 10px 15px 20px 15px;
+	}
+	
+	.fondo p{
+		font-size: 20px;
+		text-align: justify;
+		margin-bottom: 40px;
+	}
+
+	.fondo p br{
+		display: none;
+	}
+	
+	.h1-index{
+		font-size: 30px;
+		font-weight: bold;
+	}
+
+	.cont-image div img{
+		width: 75%;
+		margin: auto;
+	}
+	/*************END DISEÑO INDEX**********************/
+		
+	/****************DISEÑO NOSOTROS**********************/
+	.texto br{
+		display: none;
+	}
+
+	.seccion1{
+		padding: 0px;
+	}
+
+	.subtit-nos{
+		margin-top: 15px !important;
+		font-size: 25px;
+	}
+
+	.seccion3{
+		padding: 0px;
+	}
+
+	.h1-nos{
+		font-size: 25px;
+	}
+
+	.cicono{
+		text-align: center;
+	}
+
+	.mtc, .mtc2{
+		margin-top: 0px;
+		margin-bottom: 20px;
+	}
+
+	.alinear-texto, .centro{
+		text-align: center;
+	}
+	
+	.h2-omv{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.text-omv{
+		text-align: justify;
+	}
+
+	.botonn2{
+		margin-bottom: 20px;
+	}
+	/****************END DISEÑO NOSOTROS*****************/
+
+	/****************DISEÑO SERVICIOS**********************/
+	.margen-arriba{
+		margin-top: 20px;
+		vertical-align: top;
+	}
+
+	.imgservicios, .imgservicios2, .imgservicios3, .imgservicios4, .imgservicios5, .imgservicios{
+		border-radius: 10px;
+	}
+
+	.text-imgservicios{
+		text-align: center;
+		width: 100%;
+		padding: 0px 0px 10px 0px;
+		font-size: 22px;
+		margin-top: 235px;
+	}
+	/****************END DISEÑO SERVICIOS*****************/
+
+	/****************DISEÑO CONTACTO**********************/
+	#contact{
+		height: 100%;
+		padding: 5px 5px;
+	}
+
+	.section-header{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	h4{
+		font-size: 14px;
+	}
+
+	.form-line{
+		border: 0px;
+	}
+
+	form div{
+		width: 100% !important;
+	}
+
+	label{
+		width: 100%;
+	}
+
+	.btn-enviar{
+		text-align: center;
+		margin-bottom: 10px; 
+	}
+
+	.new-btn{
+		margin: auto !important;
+		float: none !important;
+	}
+
+	.centrar-text{
+		text-align: center;
+	}
+	/****************END DISEÑO CONTACTO*****************/
+
+
+	/****************DISEÑO FOOTER**********************/
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		width: 95%;
+		margin-bottom: 15px;
+		font-size: 18px;
+	}
+	/****************END DISEÑO FOOTER*****************/
+
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+
+	.text-imgservicios{
+		font-size: 22px;
+	}
+
+	nav{
+		margin-left: 0px;
+	}
+
+	.logo{
+		margin-top: 15px;
+		margin-right: 10px;
+	}
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

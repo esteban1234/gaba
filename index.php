@@ -13,9 +13,12 @@
         <a class="selector" href="vistas/contacto.php">CONTACTO</a>
       </ul>
     </nav>
-      <figure class="logo pull-right animated fadeInDown">
-         <img src="img/gaba.png" alt="GABA" class="img-responsive"> 
-        </figure>
+    <figure class="logo pull-right animated fadeInDown">
+      <img src="img/gaba.png" alt="GABA" class="img-responsive"> 
+    </figure>
+     <div class="menu-op">
+      <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+    </div>
   </div>
   <p class="texto animated fadeInDown">
     Menú personalizado <br> para tus eventos
@@ -30,11 +33,11 @@
 <div class="section seccion1">
       <div class="container">
         <div class="row">
-          <div class="col-md-5 circulo col-md-offset-1">
+          <div class="col-sm-7 col-md-5 circulo col-md-offset-1">
             <img src="img/cocina.jpg" class=" img-responsive">
           </div>
-          <div class="col-md-6">
-            <h1 class="text-danger" style="margin-top: 22%;">Banquetes GABA</h1>
+          <div class="col-sm-5 col-md-6">
+            <h1 class="text-danger tit-index" style="margin-top: 22%;">Banquetes GABA</h1>
             <p class="text-danger text-justify textci">Vive un momento GABA y descubre una experiencia única a través de tus sentidos con una de las mejores propuestas gastronómicas gracias a la colaboración de nuestro Grupo en los eventos Gastronómicos más importantes, porque los momentos importantes de tu vida merecen una gran celebración. ¿Y tu ya viviste tu momento GABA?</p>
           </div>
         </div>
@@ -52,34 +55,34 @@
   </div>
 
   <div class="container seccion2">
-    <h1 class="text-danger text-center" style="border-bottom: 1px gray solid; padding-bottom: 1%; border-left: 1px gray solid; border-right: 1px gray solid;">Galeria GABA</h1> <br><br>
-  <div class="row">
-    <div class="col-md-4 col-sm-4 col-xs-6 shine_me">
+    <h1 class="text-danger text-center h1-index" style="border-bottom: 1px gray solid; padding-bottom: 1%; border-left: 1px gray solid; border-right: 1px gray solid;">Galeria GABA</h1> <br><br>
+  <div class="row cont-image">
+    <div class="col-md-4 col-sm-4 col-xs-12 shine_me">
           <img src="http://lorempixel.com/output/food-q-c-320-240-2.jpg" class="img-responsive"/>
           <!-- <p>HOLA</p> -->
             <i class="shine_effect"></i>
     </div>
-        <div class="col-md-4 col-sm-4 col-xs-6 shine_me">
+        <div class="col-md-4 col-sm-4 col-xs-12 shine_me">
             <img src="http://lorempixel.com/output/food-q-c-320-240-4.jpg" class="img-responsive"/>
             <!-- <p>HOLA</p> -->
             <i class="shine_effect"></i>
     </div>
-        <div class="col-md-4 col-sm-4 col-xs-6 shine_me">
+        <div class="col-md-4 col-sm-4 col-xs-12 shine_me">
             <img src="http://lorempixel.com/output/food-q-c-320-240-1.jpg" class="img-responsive"/>
             <!-- <p>HOLA</p> -->
             <i class="shine_effect"></i>
     </div>
-        <div class="col-md-4 col-sm-4 col-xs-6 shine_me">
+        <div class="col-md-4 col-sm-4 col-xs-12 shine_me">
             <img src="http://lorempixel.com/output/food-q-c-320-240-1.jpg" class="img-responsive"/>
             <!-- <p>HOLA</p> -->
             <i class="shine_effect"></i>
     </div>
-        <div class="col-md-4 col-sm-4 col-xs-6 shine_me">
+        <div class="col-md-4 col-sm-4 col-xs-12 shine_me">
             <img src="http://lorempixel.com/output/food-q-c-320-240-2.jpg" class="img-responsive"/>
             <!-- <p>HOLA</p> -->
             <i class="shine_effect"></i>
     </div>
-        <div class="col-md-4 col-sm-4 col-xs-6 shine_me">
+        <div class="col-md-4 col-sm-4 col-xs-12 shine_me">
             <img src="http://lorempixel.com/output/food-q-c-320-240-4.jpg" class="img-responsive"/>
             <!-- <p>HOLA</p> -->
             <i class="shine_effect"></i>

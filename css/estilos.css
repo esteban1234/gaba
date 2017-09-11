@@ -27,6 +27,10 @@ header{
   clear: both;
   height: 550px;
 }
+
+.menu-op{
+  display: none;
+}
 nav{
   /*border: 2px red solid;*/
    margin: 5% 0% 0% 5%;

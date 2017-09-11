@@ -12,9 +12,12 @@
         <a class="selector" href="contacto.php">CONTACTO</a>
       </ul>
     </nav>
-      <figure class="logo pull-right animated fadeInDown">
-         <img src="../img/gaba.png" alt="GABA" class="img-responsive"> 
-        </figure>
+    <figure class="logo pull-right animated fadeInDown">
+      <img src="../img/gaba.png" alt="GABA" class="img-responsive"> 
+    </figure>
+    <div class="menu-op">
+      <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+    </div>
   </div>
   <p class="texto animated fadeInDown">
     Banquetes <br> GABA
@@ -30,13 +33,13 @@
 <div class="section seccion1">
       <div class="container">
         <div class="row">
-          <div class="col-md-5 col-md-offset-1">
-            <h2 style="margin-top: 12%;" class="text-danger text-center">
+          <div class="col-sm-5 col-md-5 col-md-offset-1">
+            <h2 style="margin-top: 12%;" class="text-danger text-center subtit-nos">
               <i class="fa fa-cutlery fa-spin  fa-fw"></i> La mejor opción en banquetes para tu fiesta o evento.</h2>
             <p class="letras text-justify">Ofrecemos el mejor servicio de banquetes para fiestas y eventos. Contamos con personal de excelente calidad y compromiso. Nuestros colaboradores están capacitados para brindarte el mejor servicio. <br><br>
             El tiempo nos ha permitido obtener la experiencia y contar con un equipo de colaboradores estrictamente seleccionados bajo los estándares más altos de calidad que usted se merece y hacer de su banquete algo especial.     </p>
           </div>
-          <div class="col-md-6 circulo ">
+          <div class="col-sm-7 col-md-6 circulo ">
             <img src="../img/banquetes2.jpg" class=" img-responsive">
           </div>
         </div>
@@ -47,50 +50,49 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h1 class="text-center text-danger">¿Porque Debería Contratar Nuestros Banquetes?</h1>
-            
+            <h1 class="text-center text-danger h1-nos">¿Porque Debería Contratar Nuestros Banquetes?</h1>
           </div>
         </div> <br><br>
         <div class="row">
-          <div class="col-md-2 text-right cicono">
+          <div class="col-sm-2 col-md-2 text-right cicono">
             <span class="fa-stack fa-3x icono">
               <i class="fa fa-circle fa-stack-2x"></i>
               <i class="fa fa-check fa-stack-1x fa-inverse"></i>
             </span>
           </div>
-          <div class="col-md-4">
-            <p class="text-left mt">Realizamos Eventos De Cualquier Tipo, Bodas, Catering, Canapes, xv años, Eventos Sociales, Festejos  a Domicilio, Taquizas. En General Cualquier Tipo de Banquete.</p>
+          <div class="col-xs-12 col-sm-4  col-md-4">
+            <p class="text-left mt alinear-texto">Realizamos Eventos De Cualquier Tipo, Bodas, Catering, Canapes, xv años, Eventos Sociales, Festejos  a Domicilio, Taquizas. En General Cualquier Tipo de Banquete.</p>
           </div>
-          <div class="col-md-2 text-right cicono">
+          <div class="col-sm-2 col-md-2 text-right cicono">
             <span class="fa-stack fa-3x icono">
               <i class="fa fa-circle fa-stack-2x"></i>
               <i class="fa fa-check fa-stack-1x fa-inverse"></i>
             </span>
           </div>
-          <div class="col-md-4">
-            <p class="text-left mt2">La experiencia es algo que no se improvisa.</p>
+          <div class="col-xs-12 col-sm-4  col-md-4">
+            <p class="text-left mt2 centro">La experiencia es algo que no se improvisa.</p>
           </div>
         </div>
         <div class="row">
-          <div class="col-md-2 text-right cicono">
+          <div class="col-sm-2 col-md-2 text-right cicono">
             <span class="fa-stack fa-3x icono">
               <i class="fa fa-circle fa-stack-2x"></i>
               <i class="fa fa-check fa-stack-1x fa-inverse"></i>
             </span>
           </div>
-          <div class="col-md-4">
+          <div class="col-xs-12 col-sm-4  col-md-4">
             
-            <p class="text-left mt2">Realizamos presupuestos a la medida, atendemos desde 20 personas hasta 1200.</p>
+            <p class="text-left mt2 alinear-texto">Realizamos presupuestos a la medida, atendemos desde 20 personas hasta 1200.</p>
           </div>
-          <div class="col-md-2 text-right cicono">
+          <div class="col-sm-2 col-md-2 text-right cicono">
             <span class="fa-stack fa-3x icono">
               <i class="fa fa-circle fa-stack-2x"></i>
               <i class="fa fa-check fa-stack-1x fa-inverse"></i>
             </span>
           </div>
-          <div class="col-md-4 text-center">
+          <div class="col-xs-12 col-sm-4 col-md-4 text-center">
            
-            <p class="text-left mt2">¿ No tiene idea por donde empezar en su evento ? nosotros le ayudamos. No Esta Solo.</p>
+            <p class="text-left mt2 alinear-texto">¿ No tiene idea por donde empezar en su evento ? nosotros le ayudamos. No Esta Solo.</p>
           </div>
         </div>
       </div>
@@ -100,18 +102,18 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <h2 class="text-center text-danger">Objetivo</h2>
-            <p class="text-center">Brindar a nuestros clientes todos los SERVICIOS DE BANQUETES, a precios competitivos.
+            <h2 class="text-center text-danger h2-omv">Objetivo</h2>
+            <p class="text-center text-omv">Brindar a nuestros clientes todos los SERVICIOS DE BANQUETES, a precios competitivos.
 
             Ser una empresa de vanguardia, contemplando la inversión de equipos sofisticados para la elaboración de alimentos y así mantenernos como lideres en el ramo.</p>
           </div>
           <div class="col-md-4">
-            <h2 class="text-center text-danger">Misión</h2>
-            <p class="text-center">Hacer que nuestros clientes resulten satisfechos al realizar sus EVENTOS Y BANQUETES con nosotros, haciendo que el costo beneficio sea el factor principal por lo que elijan a GABA GRUPO GASTRONOMICO Y BANQUETERO como proveedor.</p>
+            <h2 class="text-center text-danger h2-omv">Misión</h2>
+            <p class="text-center text-omv">Hacer que nuestros clientes resulten satisfechos al realizar sus EVENTOS Y BANQUETES con nosotros, haciendo que el costo beneficio sea el factor principal por lo que elijan a GABA GRUPO GASTRONOMICO Y BANQUETERO como proveedor.</p>
           </div>
           <div class="col-md-4">
-            <h2 class="text-center text-danger">Visión</h2>
-            <p class="text-center">Continuar siendo una empresa que cubra paquetes integrales que incluyan servicio de alimentos a bajo precio con altos estándares de calidad siempre empeñados en lograr costo beneficio para nuestros clientes.</p>
+            <h2 class="text-center text-danger h2-omv">Visión</h2>
+            <p class="text-center text-omv">Continuar siendo una empresa que cubra paquetes integrales que incluyan servicio de alimentos a bajo precio con altos estándares de calidad siempre empeñados en lograr costo beneficio para nuestros clientes.</p>
           </div>
         </div>
       </div>

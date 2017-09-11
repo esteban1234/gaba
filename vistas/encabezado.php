@@ -15,5 +15,5 @@
 	<link rel="stylesheet" href="css/estilos.css">
 	<link rel="stylesheet" href="css/animate.css">
 	<link rel="stylesheet" href="css/responsivo.css">
-	<link href="https://fonts.googleapis.com/css?family=Encode+Sans|Lato|Montserrat|Encode+Sans+Semi+Condensed|Open+Sans|Oswald|Roboto|Roboto+Condensed" rel="stylesheet">
+	<!-- <link href="https://fonts.googleapis.com/css?family=Encode+Sans|Lato|Montserrat|Encode+Sans+Semi+Condensed|Open+Sans|Oswald|Roboto|Roboto+Condensed" rel="stylesheet"> -->
 </head>

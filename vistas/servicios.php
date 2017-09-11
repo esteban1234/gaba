@@ -13,9 +13,12 @@
         <a class="selector" href="contacto.php">CONTACTO</a>
       </ul>
     </nav>
-      <figure class="logo pull-right animated fadeInDown">
-         <img src="../img/gaba.png" alt="GABA" class="img-responsive"> 
-        </figure>
+    <figure class="logo pull-right animated fadeInDown">
+      <img src="../img/gaba.png" alt="GABA" class="img-responsive"> 
+    </figure>
+    <div class="menu-op">
+      <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+    </div>
   </div>
   <p class="texto animated fadeInDown">
     Servicios <br> GABA
@@ -32,21 +35,21 @@
       <h1 class="text-center text-danger">Servicios</h1>
       <p class="text-center text-danger" style="font-size: 18px;">Somos especialistas en eventos masivos</p> <br><br>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 margen-arriba">
           <figure class="imgservicios">
             <div class="fondo">
               <div class="text-imgservicios">BODAS</div>
             </div>
           </figure>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 margen-arriba">
             <figure class="imgservicios2">
             <div class="fondo">
               <div class="text-imgservicios">XV AÑOS</div>
             </div>
           </figure>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 margen-arriba">
             <figure class="imgservicios3">
             <div class="fondo">
               <div class="text-imgservicios">GRADUACIONES</div>
@@ -56,21 +59,21 @@
         </div> <br><br>
 
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 margen-arriba">
           <figure class="imgservicios4">
             <div class="fondo">
               <div class="text-imgservicios">EMPRESARIALES</div>
             </div>
           </figure>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 margen-arriba">
             <figure class="imgservicios5">
             <div class="fondo">
               <div class="text-imgservicios">FESTEJOS</div>
             </div>
           </figure>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 margen-arriba">
             <figure class="imgservicios6">
             <div class="fondo">
               <div class="text-imgservicios">DOMICILIOS</div>
